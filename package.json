@@ -1,0 +1,15 @@
+{
+    name: "zdtheme Dark",
+    title: "Zdtheme Dark",
+    description: "Zdteam theme",
+    homepage: "https://github.com/kwiessle/brackets-zdtheme-dark.git",
+    version: "1.0.0",
+    author: "Kiefer Wiessler kwiessle@student.42.fr",
+    license: "MIT",
+    theme: {
+        file: "theme.css",
+        dark: true,
+        addModeClass: true
+    },
+    keywords: ["theme"]
+}

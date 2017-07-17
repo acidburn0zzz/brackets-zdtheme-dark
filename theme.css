@@ -1,0 +1,141 @@
+/* SWATCHES ---------------------------------------------------------------------- */
+
+span.cm-attribute {
+    color: #9bd9ff;
+}
+span.cm-builtin {
+    color: #d0fcc1;
+}
+span.cm-header {
+    color: #d3ffc4;
+}
+span.cm-def {
+    color: #95c0fa;
+}
+span.cm-qualifier {
+    color: #95c0fa;
+}
+span.cm-variable {
+    color: #95fab8;
+}
+span.cm-atom {
+    color: #e59323;
+}
+span.cm-link {
+    color: #2cce58;
+}
+span.cm-number {
+    color: #88e3a4;
+}
+span.cm-string {
+    color: #d5ede7;
+}
+.cm-m-javascript.cm-string {
+    color: #f2e9e9;
+}
+span.cm-string-2 {
+    color: #ffc21b;
+}
+span.cm-variable-3 {
+    color: #ffc21b;
+}
+span.cm-meta {
+    color: #6bb4c1;
+}
+span.cm-operator {
+    color: #eb98d8;
+}
+span.cm-comment {
+    color: #e4c5ff;
+}
+span.cm-error {
+    color: #ff2583;
+}
+span.cm-keyword {
+    color: #c5ffc0;
+    font-weight: 700;
+}
+span.cm-tag {
+    color: #ffa16f;
+}
+span.cm-variable-2 {
+    color: #a5ffea;
+}
+span.cm-property {
+    color: #b082c1;
+}
+
+/* property after string */
+
+span.cm-bracket {
+    color: #ffa16f;
+}
+
+/* MISC ---------------------------------------------------------------------- */
+
+.CodeMirror,
+.CodeMirror .CodeMirror-scroll {
+    background: #171a2a;
+    color: #ffffff;
+}
+.CodeMirror-cursor {
+    border-left: 2px solid #1e98ff !important;
+}
+.CodeMirror-overwrite .CodeMirror-cursor {
+    border-bottom: 2px solid #1e98ff !important;
+    border-left: none !important;
+}
+.CodeMirror-gutters {
+    background: #212126;
+    /*    border-right: 10px solid #141515;*/
+}
+.CodeMirror-linenumber {
+    color: #def2f7;
+    font-size: 100;
+}
+.CodeMirror-selected {
+    background: #004653;
+}
+
+/* Active Line */
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-nonmatchingbracket {
+    color: #ff2583 !important;
+}
+.CodeMirror-activeline-background {
+    background: rgba(87, 102, 116, 0.6) !important;
+}
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
+    color: #64dbff;
+    background-color: transparent !important;
+}
+
+/* Matching */
+
+.CodeMirror-matchingbracket {
+    background: #005465 !important;
+    color: #fff !important;
+}
+.CodeMirror-matchingtag {
+    background: #00424e !important;
+}
+
+/* Searching */
+
+.CodeMirror-searching {
+    background-color: #ffcd2d;
+    color: #000 !important;
+}
+.CodeMirror-searching.searching-current-match {
+    background-color: #ff8500;
+}
+
+/* Non-editor styling */
+
+#image-holder,
+#not-editor {
+    background-color: #005aff;
+}
+#image-holder {
+    color: #ccc;
+}
