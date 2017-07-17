@@ -1,15 +1,13 @@
 {
-    name: "zdtheme Dark",
-    title: "Zdtheme Dark",
-    description: "Zdteam theme",
-    homepage: "https://github.com/kwiessle/brackets-zdtheme-dark.git",
-    version: "1.0.0",
-    author: "Kiefer Wiessler kwiessle@student.42.fr",
-    license: "MIT",
-    theme: {
-        file: "theme.css",
-        dark: true,
-        addModeClass: true
-    },
-    keywords: ["theme", "zd", "zdp", "zdtheme", "dark", "zdteam"]
+    "title": "zdtheme Dark",
+    "name": "Zdtheme Dark",
+    "description": "Zdteam theme - Some Dark blue retro theme",
+    "version": "0.0.1",
+    "author": "Kiefer Wiessler kwiessle@student.42.fr",
+    "homepage": "https://github.com/kwiessle/brackets-zdtheme-dark.git",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.css",
+        "dark": true
+    }
 }
