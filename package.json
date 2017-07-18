@@ -8,6 +8,7 @@
     "license": "MIT",
     "theme": {
         "file": "theme.css",
-        "dark": true
+        "dark": true,
+        "addModeClass": true
     }
 }

@@ -1,73 +1,80 @@
 /* SWATCHES ---------------------------------------------------------------------- */
 
-span.cm-attribute {
+.cm-attribute {
     color: #9bd9ff;
 }
-span.cm-builtin {
-    color: #ecc1fc;
+.cm-builtin {
+    color: #d7ff50;
 }
-span.cm-header {
-    color: #d3ffc4;
+.cm-header {
+    color: #fff500;
 }
-span.cm-def {
+.cm-def {
     color: #95c0fa;
 }
-span.cm-qualifier {
+.cm-qualifier {
     color: #95c0fa;
 }
-span.cm-variable {
+.cm-variable {
     color: #95fab8;
 }
-span.cm-atom {
+.cm-atom {
     color: #e59323;
 }
-span.cm-link {
+.cm-link {
     color: #618df0;
 }
-span.cm-number {
+.cm-number {
     color: #88e3a4;
 }
-span.cm-string {
+.cm-string {
     color: #c1b9eb;
 }
-span.cm-m-javascript.cm-string {
-    color: #ef1919;
+.cm-m-javascript.cm-string {
+    color: #ffad3e;
 }
-span.cm-string-2 {
+.cm-string-2 {
     color: #ffc21b;
 }
-span.cm-variable-3 {
+.cm-variable-3 {
     color: #ffc21b;
 }
-span.cm-meta {
+.cm-meta {
     color: #6bb4c1;
 }
-span.cm-operator {
+.cm-operator {
     color: #eb98d8;
 }
-span.cm-comment {
-    color: #e4c5ff;
+.cm-comment {
+    color: #5986ad;
 }
-span.cm-error {
+.cm-error {
     color: #ff2583;
 }
-span.cm-keyword {
+.cm-keyword {
     color: #c5ffc0;
     font-weight: 700;
 }
-span.cm-tag {
+
+/*
+.cm-m-javascript.cm-keyword {
+    color: #b7e3ff;
+}
+*/
+
+.cm-tag {
     color: #ffa16f;
 }
-span.cm-variable-2 {
+.cm-variable-2 {
     color: #a5ffea;
 }
-span.cm-property {
+.cm-property {
     color: #b082c1;
 }
 
 /* property after string */
 
-span.cm-bracket {
+.cm-bracket {
     color: #ffa16f;
 }
 
